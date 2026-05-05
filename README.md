@@ -43,7 +43,7 @@ AWS Cloud · SAS Visual Analytics · NVIDIA Prompt Engineering
 ## 🤝 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Faezeh.Khosravi@stud.srh-university.de)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/faezehkhosravi](https://www.linkedin.com/in/faezeh-khosravi-3217a9208/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faezeh-khosravi-3217a9208/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/faezehkhosravi)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer"/>
