@@ -31,7 +31,7 @@ faezeh = {
 | ⛽ Fuel Price Pipeline | GCP · PySpark · BigQuery ML | Real-time data from 6 German cities |
 | 🤖 Multi-Agent LLM System | LangGraph · GPT-4o · Docker | Evaluated 4 LLMs, auto-published articles |
 | 🎯 Talent Scoring Model | Scikit-learn · SMOTE | ~82% accuracy, 60% faster screening |
-| 🔍 RAG Verification System | RAG · NLP · NLI | Fact-checked AI answers over 14 documents |
+| 🔍 [RAG Verification System](https://github.com/faezehkhosravi/RAG-Verification-System) | RAG · NLP · NLI | Fact-checked AI answers over 14 documents |
 
 ---
 
