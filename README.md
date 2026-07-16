@@ -1,11 +1,8 @@
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=160&section=header&text=Faezeh%20Khosravi&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20%7C%20Heidelberg%2C%20Germany%20%F0%9F%87%A9%F0%9F%87%AA&descAlignY=62&descSize=16"/>
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=M.Sc.+Data+Science+%40+SRH+Heidelberg+%F0%9F%8E%93;LLMs+%7C+GCP+%7C+PySpark+%7C+Machine+Learning;Open+to+Werkstudent+roles+in+Germany+%F0%9F%94%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=M.Sc.+Data+Science+%40+SRH+Heidelberg+%F0%9F%8E%93;LLMs+%7C+GCP+%7C+PySpark+%7C+Machine+Learning;Open+to+Werkstudent+roles+in+Germany+%F0%9F%94%8D" alt="Typing SVG" />
 </a>
-
 </div>
 
 ---
@@ -32,10 +29,13 @@ faezeh = {
 | 🤖 [Multi-Agent LLM System](https://github.com/SRH-Heidelberg-University-ADSA/Content-Creation/tree/main) | LangGraph · GPT-4o · Docker | Evaluated 4 LLMs, auto-published articles |
 | 🎯 Talent Scoring Model | Scikit-learn · SMOTE | ~82% accuracy, 60% faster screening |
 | 🔍 [RAG Verification System](https://github.com/faezehkhosravi/RAG-Verification-System) | RAG · NLP · NLI | Fact-checked AI answers over 14 documents |
+| 🌦️ [Weather-Energy Pipeline](https://github.com/faezehkhosravi/weather_energy_pipeline) | GCP · BigQuery · PySpark · dbt · Tableau | End-to-end pipeline linking weather & energy demand across 5 EU cities (325K+ records), 3 interactive dashboards |
+| 🩺 [Medical Scribe](https://github.com/faezehkhosravi/medical-scribe) | Python · JavaScript · Docker | Dockerized medical scribe app with backend + frontend |
 
 ---
 
 ## 🏅 Certificates
+
 AWS Cloud · SAS Visual Analytics · NVIDIA Prompt Engineering
 
 ---
