@@ -15,7 +15,7 @@ faezeh = {
     "degree"   : "M.Sc. Data Science & Analytics — SRH Heidelberg",
     "status"   : "🔍 Open to Werkstudent roles in Germany",
     "skills"   : ["Python", "ML", "LLMs", "GCP", "PySpark", "Docker"],
-    "languages": ["Persian 🇮🇷", "English C1 🇬🇧", "German A2 🇩🇪"],
+    "languages": ["Persian 🇮🇷", "English C1 🇬🇧", "German B1 🇩🇪"],
 }
 ```
 
